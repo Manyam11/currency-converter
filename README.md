@@ -4,7 +4,9 @@ A modern and responsive Currency Converter built using React and Vite.
 
 ## 📸 Preview
 
-> Screenshot will be added after deployment.
+>## 🌐 Live Demo
+
+https://currency-converter-flame-phi.vercel.app
 
 ---
 
@@ -41,13 +43,13 @@ A modern and responsive Currency Converter built using React and Vite.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Manyam11/currency-pro.git
+git clone https://github.com/Manyam11/currency-converter.git
 ```
 
 Go to the project directory:
 
 ```bash
-cd currency-pro
+cd currency-converter
 ```
 
 Install dependencies:
@@ -67,7 +69,7 @@ npm run dev
 ## 📂 Project Structure
 
 ```
-currency-pro/
+currency-converter//
 │── public/
 │── src/
 │   ├── components/
