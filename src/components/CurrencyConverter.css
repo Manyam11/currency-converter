@@ -277,3 +277,23 @@ body {
   transform: translateY(-2px);
   box-shadow: 0 10px 20px rgba(102, 126, 234, 0.35);
 }
+.developer {
+  margin-top: 25px;
+  text-align: center;
+  font-size: 14px;
+  color: #888;
+  letter-spacing: 0.5px;
+}
+
+.developer strong {
+  color: #667eea;
+  font-weight: 600;
+}
+
+.container.dark .developer {
+  color: #cbd5e1;
+}
+
+.container.dark .developer strong {
+  color: #60a5fa;
+}
