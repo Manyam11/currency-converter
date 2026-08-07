@@ -219,7 +219,7 @@ function CurrencyConverter() {
        <p className="developer">
          💙 Developed with React by <strong>Manyam Prashar</strong>
        </p>
-      </div>
+    
       <ToastContainer
         position="top-right"
         autoClose={2000}
